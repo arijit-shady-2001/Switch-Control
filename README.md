@@ -1,4 +1,4 @@
-# Switch-Control
+# Button Switch Control
 This is a simple and easy attempt to blink an LED with the help of a Button Switch
 
 void setup()
